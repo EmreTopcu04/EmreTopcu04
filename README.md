@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmreTopcu04
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Cyber Security
 <!---
 EmreTopcu04/EmreTopcu04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
