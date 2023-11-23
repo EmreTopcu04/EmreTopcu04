@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **Cyber Security**
+- 👯 I’m looking forward to being an **Academician**
 
 - 📫 How to reach me **info.etopcu@gmail.com**
 
