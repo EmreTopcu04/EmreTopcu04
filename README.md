@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emretopcu04" alt="emretopcu04" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Vue.js as framework**
 
 - 👯 I’m looking forward to being an **Academician**
 
