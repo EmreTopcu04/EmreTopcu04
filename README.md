@@ -75,14 +75,11 @@ Feel free to reach out for collaborations, inquiries, or opportunities:
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/> 
   </a> 
-  <a href="https://soliditylang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" alt="Solidity" width="40" height="40"/> 
-  </a> 
+
   <!-- Tools and Practices --> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
   </a> 
-  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   </a> 
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
