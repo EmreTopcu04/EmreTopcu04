@@ -95,5 +95,5 @@ Feel free to reach out for collaborations, inquiries, or opportunities:
 
 
 
-> "Code is like humor. When you have to explain it, it’s bad."  
-> **- Cory House**
+> "Listen to your customers, not your competitors."  
+> **- Joel Spolsky**
