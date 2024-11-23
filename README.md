@@ -91,11 +91,9 @@ Feel free to reach out for collaborations, inquiries, or opportunities:
   </p>
 
 ### 📊 **GitHub Stats**    
-<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emretopcu04&theme=gruvbox" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=emretopcu04&show_icons=true&theme=gruvbox" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emretopcu04&layout=compact&theme=gruvbox" alt="Top Languages" />
-</p>
 
 
 
