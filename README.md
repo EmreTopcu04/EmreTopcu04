@@ -74,8 +74,3 @@ Feel free to reach out for collaborations, inquiries, or opportunities:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emretopcu04&theme=gruvbox" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=emretopcu04&show_icons=true&theme=gruvbox" alt="GitHub Stats"/>
 
-
-
-
-> "Listen to your customers, not your competitors."  
-> **- Joel Spolsky**
